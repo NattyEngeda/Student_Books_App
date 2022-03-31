@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "530849305305",
+    "project_id": "studentsbooks-cad93",
+    "storage_bucket": "studentsbooks-cad93.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:530849305305:android:686a27f61eb3ccbcb164c8",
+        "android_client_info": {
+          "package_name": "com.Alamondai.studentsbooks"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "530849305305-j0d9fr2gg3nrptppje2htja73tufohrb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCAmcAPHNiUd2gAukgRgEnOuhfYBY01SkY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "530849305305-j0d9fr2gg3nrptppje2htja73tufohrb.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
